@@ -1,0 +1,17 @@
+{
+  "name": "arnexbot",
+  "version": "1.0.3",
+  "description": "bot by Faulty X",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faulty X",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "moment": "^2.19.4",
+    "ms": "^2.1.1",
+    "params": "^0.1.1"
+  }
+}
